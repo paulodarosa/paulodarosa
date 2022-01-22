@@ -11,7 +11,7 @@ These roles follows my current experience as a commercial manager. The need for 
 
 ---
 
-## Projects Currently Working On
+## Projects I'm Currently Working On
 Personal and commercial projects I'm working on. 
 
 | Shopee Scraper | Shopee Weekly Trends | Mercado Livre Scraper | Sales Forecast |
