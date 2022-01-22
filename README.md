@@ -1,6 +1,6 @@
 # Hey, there! I'm Paulo. I'm a Data Engineer
 
-I'm Paulo DaRosa, based in Curitiba / Brazil. Currently working for a small company as commercial manager and my main role is to increse the online sales of hydraulic and brass connectors for gas and petroleum.
+I'm Paulo DaRosa, based in Curitiba / Brazil. Currently working for a small company as commercial manager and my main role is to increase the online sales of hydraulic and brass connectors for gas and petroleum.
 Right after starting Computer Engineering and Math, I decided to merge my marketing and coding skills and now I looking for a position as **data engineer** or **data scientist**. 
 
 ## Working as a Marteker
