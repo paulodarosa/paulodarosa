@@ -4,10 +4,10 @@ I'm Paulo DaRosa, based in Curitiba / Brazil. Currently working for a small comp
 Right after starting Computer Engineering and Math, I decided to merge my marketing and coding skills and now I looking for a position as **data engineer** or **data scientist**. 
 
 ## Working as a Marteker
-I've been doing marketing related tasks since 2011, back when I started as a undergrad student. I spent few years working as a **political marketer**, more specific as a social media creating content and improving public relations opinion and creating a memorable branding image for 2 politicals figures in Brazil. After that, I focused on digital marketing and processes related to **e-commerce**.  
+I've been doing marketing related tasks since 2011, back when I started as an undergrad student. I spent few years working as **political marketer**, more specific as a social media creating content and improving public relations opinion and creating a positive branding image for 2 politicals figures in Brazil. After that, I focused on digital marketing and processes related to **e-commerce**.  
 
 ## Working as a Data Engineer and Data Scientist
-These roles follows my current experience as a commercial manager. The need for data to take better business decisions make me dive into the **big data** field. Since the questions and decisions are made by myself (as a marketing guy) and short-staffed, I had to right down some code in **python**, query data using **sql** and analyse the data I needed. The need of having contact with the data during all the process - doing **ETL**, creating **data lakes** and running some **statistical and predective models** helped me understand the journey that that data takes till it reaches its final point: help companies to make better data-driven decisions.
+These roles follows my current experience as a commercial manager. The need for data to make better business decisions made me dive into the **big data** field. Since the questions and decisions are made by myself (as a marketing guy) and always short-staffed, I had to right down some code in **python**, query data using **sql** and analyse the data I needed. The need of having contact with the data during all the process, getting your hands dirty doing **ETL**, creating **data lakes** and running some **statistical and predective models** helped me understand the journey that the data makes till it reaches its final point: help companies to make better data-driven decisions.
 
 ---
 
