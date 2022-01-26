@@ -16,7 +16,7 @@ Personal and commercial projects I'm working on.
 
 | Shopee Scraper | Shopee Weekly Trends | Mercado Livre Scraper | Sales Forecast |
 | ------------- | ------------- | ------------- |  ------------- |
-| [Check the repository](https://github.com/paulodarosa/shopee-scraper/) | Processing Data: 16 million/day| Not Public  | Basic Linear Regretions  |
+| [Check the repository](https://github.com/paulodarosa/shopee-scraper/) | [Check the post](https://paulodarosa.wordpress.com/category/data-engineering/shopee/)| Not Public  | Basic Linear Regretions  |
 | ETL + API | Dashbord + Pandas | ETL + SQL | Pandas + Numpy |
 | MIT License | Public but not published yet | Commercial Use |  | 
 
@@ -24,7 +24,7 @@ Personal and commercial projects I'm working on.
 ---
 
 ## Education.
-Yeah, that's for real. I already got a bachelor's degree in **Marketing** and I'm trying really hard to finish both **Computer Engineering** and **Pure Mathematics** - at the same time! 
+I already got a bachelor's degree in **Marketing**. Pursuing a double major in **Computer Engineering** and **Pure Mathematics**.
 ## Bachelor's Degree in **Marketing** 
     PUCPR, 2017. 
 ## Major in **Computer Engineering**.
