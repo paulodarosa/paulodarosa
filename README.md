@@ -5,8 +5,7 @@ I'm Paulo DaRosa, based in Curitiba / Brazil. Currently working for a tech compa
 Right after starting Software Engineering and Math, I decided to merge my marketing and coding skills and now I looking for a position as **Full Stack Web Developer** , **Back-End Developer** or **Data Engineer**. 
 
 ## Working as a Junior Full Stack Web Developer
-My main role is to create small applications and to maitain/improvee already made solutions in C#, AngularJs and TypeScript. Creating and altering Stored Procedures in SQL Serve is part of my daily routine.
-​
+My main role is to create small applications and to maintain/improve already made solutions in C#, AngularJs and TypeScript. Creating and altering Stored Procedures in SQL Serve is part of my daily routine.
 
 ## Working as a Marteker
 
