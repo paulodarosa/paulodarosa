@@ -14,7 +14,7 @@ I've been doing marketing related tasks since 2011, back when I started as an un
 
 ## Working as a Data Engineer and Data Scientist
 
-These roles follows my current experience as a former commercial manager. The need for data to make better business decisions made me dive into the **big data** field. Since the questions and decisions are made by myself (as a marketing guy) and always short-staffed, I had to right down some code in **python**, query data using **sql** and analyse the data I needed. The need of having contact with the data during all the process, getting your hands dirty doing **ETL**, creating **data lakes** and running some **statistical and predective models** helped me understand the journey that the data makes till it reaches its final point: help companies to make better data-driven decisions.
+These roles follows my current experience as a former commercial manager. The need for data to make better business decisions made me dive into the **big data** field. Since the questions and decisions were made by myself (as a marketing guy) and always short-staffed, I had to right down some code in **python**, query data using **sql** and analyse the data I needed. The need of having contact with the data during all the process, getting your hands dirty doing **ETL**, creating **data lakes** and running some **statistical and predective models** helped me understand the journey that the data makes till it reaches its final point: help companies to make better data-driven decisions.
 
 ---
 
