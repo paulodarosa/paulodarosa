@@ -2,7 +2,7 @@
 # Hey, there! I'm Paulo. I'm Junior Full Stack Web Developer.
 I'm Paulo DaRosa, based in Curitiba / Brazil. Currently working for a tech company that developes and maintain the biggest and most important financial platform of loan for retired people and senior citizens.
 
-Right after starting Software Engineering and Math, I decided to merge my marketing and coding skills and now I looking for a position as **Full Stack Web Developer** or **Data Engineer**. 
+Right after starting Software Engineering and Math, I decided to merge my marketing and coding skills and now I looking for a position as **Full Stack Web Developer** , **Back-End Developer** or **Data Engineer**. 
 
 ## Working as a Junior Full Stack Web Developer
 My main role is to create small applications and to maitain/improvee already made solutions in C#, AngularJs and TypeScript. Creating and altering Stored Procedures in SQL Serve is part of my daily routine.
